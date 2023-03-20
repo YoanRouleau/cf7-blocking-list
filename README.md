@@ -15,6 +15,6 @@ Runable through cron task or else.
 
 ## Quick start
 ### with Manage WP
-[https://managewp.com/](Manage WP)
+[Manage WP](https://managewp.com/)
 
 
